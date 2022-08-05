@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "coinputonics"
+  },
+  "targets": {
+    "coinputonics": {
+      "hosting": {
+        "windsorcryptocoin": [
+          "windsorcryptocoin"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
