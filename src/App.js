@@ -27,7 +27,7 @@ function App() {
                   {/* <!-- Top Login & Faq & Earn Monery btn --> */}
                   <div className="login-faq-earn-money">
                     <p>
-                      <a href="tel:+601116582663">+60-11-1658-2663</a>
+                      {/* <a href="tel:+601116582663">+60-11-1658-2663</a> */}
                       <a
                         href="mailto:team@windsorcryptocoin.com"
                         className="active"
@@ -338,9 +338,9 @@ function App() {
                   <h3>STRATEGIES</h3>
                   <ul className="ml-4">
                     <li>1. Burn</li>
-                    <li>2. Mint</li>
-                    <li>3. Staking Rewards</li>
-                    <li>4. Liquidity</li>
+                    {/* <li>2. Mint</li> */}
+                    <li>2. Staking Rewards</li>
+                    <li>3. Liquidity</li>
                   </ul>
                 </div>
               </div>
@@ -504,11 +504,11 @@ function App() {
             <div className="col-12">
               <div className="newsletter-area mt-100">
                 <div className="section-heading text-center mx-auto">
-                  <h3>Co-Founders</h3>
+                  <h3>Founder</h3>
                 </div>
                 <div className="row">
                   <div className="col-lg-2">&nbsp;</div>
-                  <div className="col-lg-4 col-sm-6">
+                  {/* <div className="col-lg-4 col-sm-6">
                     <div className="card">
                       <img
                         className="card-img-top"
@@ -531,7 +531,7 @@ function App() {
                         </a>
                       </div>
                     </div>
-                  </div>
+                  </div> */}
                   <div className="col-lg-4 col-sm-6">
                     <div className="card">
                       <img
@@ -593,9 +593,7 @@ function App() {
                     </>
                   </CopyToClipboard>
                   <p>
-                    BANDAR MAKOTA CHERAS 43200 SELANGOR D.E, MALAYSIA
-                    <br />
-                    CONTACT: +60 11-1658-2663
+                    Al Maktoum Rd - Deira - Dubai - United Arab Emirates
                     <br />
                     Email Id: team@windsorcryptocoin.com
                     <br />
